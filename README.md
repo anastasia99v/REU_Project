@@ -31,9 +31,3 @@
 #### Стек Технологий
 
 python, pandas, numpy, seaborn, statsmodels, sklearn, Catboost, VSCode
-
-
-#### Контакты
-
-@AnaVolk99 
-@Nastia_Nastia890
